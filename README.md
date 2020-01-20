@@ -34,3 +34,4 @@ Advanced Programming Practices, SOEN 6441 --- Fall 2019
 - Maps inside resourecs/maps are currently unused. To load existing maps, copy the files to the C:\maps folder and hit load map
 
 
+Thank you!
