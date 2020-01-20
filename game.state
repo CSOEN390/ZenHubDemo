@@ -1,0 +1,19 @@
+$$PlayersModel
+$$Players
+[PlayerName,strategy,#Continents,#Countries,#TotalArmies,Cards,FortificationFinished, AttackFinished, SuccessfulAttack , ContinentNames,CountryNames]
+p2|human|0|14|39|0|false|false|false|[]|[Ural, Egypt, Western-Europe, Congo, Iceland, India, Venezuela, Mongolia, North-Africa, Southern-Europe, Eastern-United-States, Ontario, East-Africa, Indonesia]
+p3|human|0|14|35|0|false|false|false|[]|[Central-America, Alberta, Siam, Ukraine, Quebec, Madagascar, Western-Australia, Scandinavia, Irkutsk, Western-United-States, North-West-Territory, Brazil, Greenland, South-Africa]
+p1|human|0|14|35|0|false|false|false|[]|[Afghanistan, Argentina, Eastern-Australia, Northern-Europe, Japan, Yakutsk, Great-Britain, New-Guinea, China, Siberia, Alaska, Kamchatka, Middle-East, Peru]
+$$FirstPlayer
+p2
+$$Battle
+[FromCountry,ToCountry,winner, #AttackerDice,#DefenderDice,state]
+Ural|China||2|0|Attacked
+$$PhaseModel
+$$CurrentPhase
+ATTACK
+$$PhaseStatus
+Phase: Attack,Player: p2
+19:34:03.692 - Attack phase has start
+19:34:21.854 - Ural has attacked China with 2 number of dice(s).
+$$End

@@ -1,0 +1,38 @@
+; Yura Mamyrin
+; Risk Map
+
+; Risk World Game Map
+; Dimensions: 677 x 425 Pixels
+
+; Made by Christian Domsch
+;         Sebastian Kirsch
+;         Andreas Habel
+;         Dirk Engberg
+
+name TIny Map
+
+[files]
+pic world_pic.jpg
+map world_map.gif
+crd risk.cards
+prv world.jpg
+
+[continents]
+Europe 7 Yellow
+Asia 6 Blue
+
+[countries]
+1 France 1 0 0
+2 Italy 1 0 0
+3 Greece 1 0 0
+4 England 1 0 0
+5 Iran 2 0 0
+6 Japan 2 0 0
+
+[borders]
+1 2 3
+2 1
+3 1 5
+4 6
+5 1 3 6
+6 4 5
